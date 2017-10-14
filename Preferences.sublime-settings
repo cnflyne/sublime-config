@@ -11,7 +11,7 @@
 	[
 		".git",
 		"log",
-                "node_modules",
+		"node_modules",
 		"tmp/cache",
 		".vagrant"
 	],
@@ -22,10 +22,10 @@
 		"PHP",
 		"Vintage"
 	],
-	"line_padding_bottom": 7,
-	"line_padding_top": 7,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"scroll_past_end": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
